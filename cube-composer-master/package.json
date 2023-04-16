@@ -3,11 +3,11 @@
   "description": "A puzzle game inspired by functional programming",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sharkdp/cube-composer.git"
+    "url": "https://github.com/rajeshch1108/cube-composer.git"
   },
   "author": "David Peter <mail@david-peter.de>",
   "license": "MIT",
-  "homepage": "https://github.com/sharkdp/cube-composer",
+  "homepage": "https://github.com/rajeshch1108/cube-composer",
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-concat": "^2.6.1",
