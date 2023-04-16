@@ -5,8 +5,6 @@
     "type": "git",
     "url": "https://github.com/rajeshch1108/cube-composer.git"
   },
-  "author": "David Peter <mail@david-peter.de>",
-  "license": "MIT",
   "homepage": "https://github.com/rajeshch1108/cube-composer",
   "devDependencies": {
     "gulp": "^4.0.2",
